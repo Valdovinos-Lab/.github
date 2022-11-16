@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the Valdovinos Lab github organization!
+Welcome to the Valdovinos Lab!
 
 We use network analysis and mathematical modeling to understand and quantify the structure, dynamics, and function of biological communities, including their responses to environmental changes such as species extinctions, invasions, climate change, and fisheries. This research program has contributed a more mechanistic understanding of the structure and dynamics of ecological networks, a better integration between theoretical and empirical research in network ecology, and a more predictive theory to evaluate the responses of entire biological communities to environmental change.
 
